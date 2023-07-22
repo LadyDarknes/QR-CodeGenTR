@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHsun1v6OpPFMfaDuQ40wnfvrAO4T76aCeN0krC2RH3TsJA6iZmKog6Lv43xsypmPnZUjuDR3A4u23zhV5LPGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adminastor\\source\\repos\\QRcodeGENTR\\QRcodeGENTR\\QRcodeGENTR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adminastor\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Adminastor\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\Adminastor\\.nuget\\packages\\siticone.desktop.ui\\2.1.1\\siticone.desktop.ui.2.1.1.nupkg.sha512",
+    "C:\\Users\\Adminastor\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'Siticone.Desktop.UI 2.1.1' paketi, proje hedef çerçevesi 'net6.0-windows7.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "Siticone.Desktop.UI",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
